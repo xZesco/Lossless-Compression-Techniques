@@ -28,13 +28,13 @@ This project consists of two main components:
 
 ## Directory Structure
 - `compression_algorithms/`: Contains Python files implementing different compression algorithms.
-- `gui_app/`: Contains the GUI application built with Tkinter for interactive compression demonstrations.
+- `compression/`: Contains the GUI application built with Tkinter for interactive compression demonstrations.
 
 ## Usage Instructions
 
 1. **Run the GUI Application
 ```bash
-python gui_app/main.py
+python compression/main.py
 ```
 
 2. **Input Text**: Enter the text you want to compress in the provided text area.
