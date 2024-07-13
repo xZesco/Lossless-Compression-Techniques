@@ -39,9 +39,12 @@ python compression/main.py
 
 2. **Input Text**: Enter the text you want to compress in the provided text area.
    
-3. **Select Compression Method**: Choose from the available compression algorithms using the GUI interface.
-   
-4. **View Results**: The application displays compression ratios, encoded values, and other metrics for each selected compression method.
+3. **View Results**: The application displays compression ratios, encoded values, and other metrics for each selected compression method.
+
+4. **Message Box**: The application displays if the text is not compatible with any of the compression techniques and also:
+
+- Error Handling: If there are any errors during compression or input handling, the application will display an error message using a message box.
+- Information Display: Important information, such as compression results or warnings, are also shown using message boxes for clear user feedback.
 
 ## Contributions
 
