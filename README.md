@@ -7,8 +7,8 @@ This project demonstrates various lossless compression techniques implemented in
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/youssef00mohamed/Lossless-Compression-Techniques
+cd Lossless-Compression-Techniques
 ```
 
 **Install Dependencies**: Install the required libraries and dependencies.
